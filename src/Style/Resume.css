@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Condensed:400,600');
+
+.head{
+  font-family: 'Hanalei', cursive;
+    font-size: 50px;
+    text-align:center;
+    color:#372C2E ;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    
+}
+
+
+.resume_backgroud{
+    padding-top: 5%;
+    background: #c6d89a;
+    text-align: center;
+    }
+
+
+.down_btn{
+     text-align: center;
+     width: 200px;
+    padding: 40px;
+      background-color:#8D9B6A;
+      border: 3px solid#19171A;
+      border-radius: 60px;
+      border-color:#19171A;
+      padding:15px 20px;
+      font-family:'Ultra', serif;
+      font-size: medium;
+      color: #19171A;
+      margin: 30px;
+      float: right;
+      text-align: center;
+      font-weight: 500;
+      cursor: pointer;
+      transition: 1Ss;
+      letter-spacing: 15ps;
+      
+      
+  }
+  
+  .down_btn:hover{
+   box-shadow: 0 5px 20px #343438 inset,0 5px 20px 0 #343438 inset;
+   text-shadow:0 0 5px #343438,0 0 5px #343438;
+   background-color: #D49E8D;
+  }
+  
+  .react-pdf__Page {
+    margin-top: 10px;
+  }
+  .react-pdf__Page__textContent {
+    border: 1px solid darkgrey;
+    box-shadow: 5px 5px 5px 1px #ccc;
+    border-radius: 5px;
+  }
+  
+  
+  .react-pdf__Page__canvas {
+    margin: 0 auto;
+  }
+  
